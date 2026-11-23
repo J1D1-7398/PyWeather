@@ -39,6 +39,7 @@ Or, on Windows, you can just double click the .py file IF you have it run in pyt
 
 In Windows if you have downloaded it from releases, double click the executable
 
+Ensure you have both files in the same directory (A third one will then generate)
 
 When it is opened, it should be pretty easy to understand how it works
 
